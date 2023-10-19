@@ -1,0 +1,17 @@
+.title {
+    font-size: 300%;
+    color: rgb(58, 58, 58);
+    background-color: rgb(185, 226, 241);
+    text-align: center;
+}
+
+.link {
+    font-size: large;
+    color: rgb(67, 67, 255);
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(58, 58, 58);;
+}
+
